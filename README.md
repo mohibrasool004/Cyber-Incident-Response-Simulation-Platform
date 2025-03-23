@@ -204,8 +204,8 @@ Our platform stands out with several innovative features:
 ## Contact
 
 For questions or more information, please contact:  
-**Mohib Rasool** - [email@example.com](mailto:mohibrasool004@gmail.com)
-**Jones P** - [email@example.com](mailto:jones.200423@gmail.com)
-**Prasanth Kumar S** - [email@example.com](mailto:oscpcyber@gmail.com)
+**Mohib Rasool** - [mohibrasool004@gmail.com](mailto:email@example.com)
+**Jones P** - [jones.200423@gmail.com](mailto:email@example.com)
+**Prasanth Kumar S** - [oscpcyber@gmail.com](mailto:email@example.com)
 
 ---
